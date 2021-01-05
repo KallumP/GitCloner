@@ -28,8 +28,7 @@ then
  	else
 
 		#Opens the file entered
-		sudo git clone https://github.com/KallumP/$chosenRepo
-
+		sudo git clone git@github.com:KallumP/$chosenRepo.git
 	fi
 
 else
